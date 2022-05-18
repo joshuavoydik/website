@@ -6,8 +6,8 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://joshuavoydik.com',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/google.png',
+  siteRepo: 'https://github.com/joshuavoydik/website',
+  siteLogo: '',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'voydik@gmail.com',
