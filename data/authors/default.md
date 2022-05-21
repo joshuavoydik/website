@@ -1,6 +1,6 @@
 ---
 name: Joshua Voydik
-avatar: /static/images/logo.png
+avatar: 
 occupation: Co-founder
 company: Swell
 email: voydik@gmail.com
