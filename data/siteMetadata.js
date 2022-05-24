@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Joshua Voydik',
   author: '',
-  headerTitle: 'Joshua Voydik',
+  headerTitle: 'Joshua Voydik!!!!!',
   description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
